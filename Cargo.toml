@@ -1,0 +1,9 @@
+[package]
+name = "eth-key-creator"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+k256 = "0.13.4"
+keccak-hash = "0.12.0"
+rand = "0.10.0"
